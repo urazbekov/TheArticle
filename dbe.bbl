@@ -1,0 +1,154 @@
+\providecommand{\newblock}{}
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+% Bibliography created with iopart-num v2.1
+% /biblio/bibtex/contrib/iopart-num
+
+\bibitem{separationneutron}
+{Wang} M, {Audi} G, {Wapstra} A~H, {Kondev} F~G, {MacCormick} M, {Xu} X and
+  {Pfeiffer} B 2012 {\em Chin.Phys.C\/} {\bf 36} 1603
+
+\bibitem{quadrupole}
+{Sundholm} D and {Olsen} J 1991 {\em Chem.Phys.Lett.\/} {\bf 177} 91
+
+\bibitem{kukulin2010}
+{Kukulin} V~I and {Voronchev} V~T 2010 {\em Phys.Atomic Nuclei\/} {\bf 73} 1376
+
+\bibitem{seksembayev2018}
+Seksembayev Z, Kukulin V and Sakhiyev S 2018 {\em Physica Scripta\/} {\bf 93}
+  085602
+
+\bibitem{lukyanov2014}
+{Lukyanov} S~M, {Denikin} A~S, {Voskoboynik} E~I, {Khlebnikov} S~V, {Harakeh}
+  M~N, {Maslov} V~A, {Penionzhkevich} Y~E, {Sobolev} Y~G, {Trzaska} W~H,
+  {Tyurin} G~P and {Kuterbekov} K~A 2014 {\em J.Phys.(London)\/} {\bf G41}
+  035102
+
+\bibitem{lukyanov2015}
+Lukyanov S~M, Harakeh M~N, Naumenko M~A, Xu Y, Trzaska W~H, Burjan V, Kroha V,
+  Mrazek J, Glagolev V, Piskor S, Voskoboynik E~I, Khlebnikov S~V,
+  Penionzhkevich Y~E, Skobelev N~K, Sobolev Y~G, Tyurin G~P, Kuterbekov K and
+  Tuleushev Y 2015 {\em {World Journal of Nuclear Science and Technology}\/}
+  {\bf 5} 265
+
+\bibitem{janseitov2018}
+{Janseitov} D~M, {Lukyanov} S~M, {Mendibayev} K, {Penionzhkevich} Y~E,
+  {Skobelev} N~K, {Sobolev} Y~G, {Kuterbekov} K~A, {Valiolda} D~S,
+  {Zholdybayev} T~K, {Trzaska} W~H, {Khlebnikov} S~V, {Tyurin} G~P, {Urazbekov}
+  B~A, {Harakeh} M~N, {Burjan} V, {Kroha} V, {Mrazek} J, {Piskor} S, {Sivacek}
+  I and {Glagolev} V 2018 {\em Int.J.Mod.Phys.\/} {\bf E27} 1850089
+
+\bibitem{brown2007}
+{Brown} T~A~D, {Papka} P, {Fulton} B~R, {Watson} D~L, {Fox} S~P, {Groombridge}
+  D, {Freer} M, {Clarke} N~M, {Ashwood} N~I, {Curtis} N, {Ziman} V, {McEwan} P,
+  {Ahmed} S, {Catford} W~N, {Mahboub} D, {Timis} C~N, {Baldwin} T~D and
+  {Weisser} D~C 2007 {\em Phys.Rev. C\/} {\bf 76} 054605
+
+\bibitem{papka2007}
+{Papka} P, {Brown} T~A~D, {Fulton} B~R, {Watson} D~L, {Fox} S~P, {Groombridge}
+  D, {Freer} M, {Clarke} N~M, {Ashwood} N~I, {Curtis} N, {Ziman} V, {McEwan} P,
+  {Ahmed} S, {Catford} W~N, {Mahboub} D, {Timis} C~N, {Baldwin} T~D and
+  {Weisser} D~C 2007 {\em Phys.Rev. C\/} {\bf 75} 045803
+
+\bibitem{detraz1970}
+{Detraz} C, {Duhm} H~H and {Hafner} H 1970 {\em Nucl.Phys.\/} {\bf A147} 488
+
+\bibitem{detraz1974}
+{Detraz} C, {Pougheon} F, {Bernas} M, {Langevin} M, {Roussel} P and {Vernotte}
+  J 1974 {\em Nucl.Phys.\/} {\bf A228} 39
+
+\bibitem{urazbekov2016}
+{Urazbekov} B~A, {Denikin} A~S, {Sakhiev} S~K and {Burtebaev} N~T 2016 {\em
+  Bull.Rus.Acad.Sci.Phys.\/} {\bf 80} 247
+
+\bibitem{urazbekov2017}
+{Urazbekov} B~A, {Denikin} A~S, {Sakhiev} S~K and {Lukyanov} S~M 2017 {\em
+  Bull.Rus.Acad.Sci.Phys.\/} {\bf 81} 690
+
+\bibitem{globalDeuteron}
+{An} H and {Cai} C 2006 {\em Phys.Rev. C\/} {\bf 73} 054605
+
+\bibitem{fresco}
+Thompson I~J 1988 {\em Computer Physics Reports\/} {\bf 7} 167 -- 212
+
+\bibitem{nrv}
+Zagrebayev V, Denikin A and Alekseev A 2009
+  \urlprefix\url{http://nrv.jinr.ru/}
+
+\bibitem{harakeh1980}
+{Harakeh} M~N, {Van Popta} J, {Saha} A and {Siemssen} R~H 1980 {\em
+  Nucl.Phys.\/} {\bf A344} 15
+
+\bibitem{bodek1989}
+{Szczurek} A, {Bodek} K, {Krug} J, {Lubcke} W, {Ruhl} H, {Steinke} M, {Stephan}
+  M, {Kamke} D, {Hajdas} W, {Jarczyk} L, {Kamys} B, {Strzalkowski} A and
+  {Kwasniewicz} E 1989 {\em Z.Phys.\/} {\bf A333} 271
+
+\bibitem{votava1973}
+{Votava} H~J, {Clegg} T~B, {Ludwig} E~J and {Thompson} W~J 1973 {\em
+  Nucl.Phys.\/} {\bf A204} 529
+
+\bibitem{globalProton}
+{Koning} A~J and {Delaroche} J~P 2003 {\em Nucl.Phys.\/} {\bf A713} 231
+
+\bibitem{globalTriton}
+{Li} X, {Liang} C and {Cai} C 2007 {\em Nucl.Phys.\/} {\bf A789} 103
+
+\bibitem{antoine}
+Caurier E, Mart\'{\i}nez-Pinedo G, Nowacki F, Poves A and Zuker A~P 2005 {\em
+  Rev. Mod. Phys.\/} {\bf 77}(2) 427--488
+
+\bibitem{cohen1965}
+{Cohen} S and {Kurath} D 1965 {\em Nucl.Phys.\/} {\bf 73} 1
+
+\bibitem{brown2017}
+Brown A 2017 {\em Lecture Notes in Nuclear Structure Physics\/} (Michigan State
+  University)
+
+\bibitem{volya}
+{Volya} A {\em Private communication. Unpublished\/}
+
+\bibitem{volya2017}
+{Kravvaris} K and {Volya} A 2017 {\em Phys.Rev.Lett.\/} {\bf 119} 062501
+
+\bibitem{galanina2012}
+{Galanina} L~I and {Zelenskaya} N~S 2012 {\em Physics of Part.and Nuclei\/}
+  {\bf 43} 147
+
+\bibitem{rudchik2016}
+{Rudchik} A~T, {Chercas} K~A, {Kemper} K~W, {Rusek} K, {Rudchik} A~A,
+  {Herashchenko} O~V, {Koshchy} E~I, {Pirnak} V~M, {Piasecki} E, {Trzcinska} A,
+  {Sakuta} S~B, {Siudak} R, {Strojek} I, {Stolarz} A, {Ilyin} A~P,
+  {Ponkratenko} O~A, {Stepanenko} Y~M, {Shyrma} Y~O, {Szczurek} A and
+  {Uleshchenko} V~V 2016 {\em Nucl.Phys.\/} {\bf A947} 161
+
+\bibitem{satchler1983}
+Satchler G 1983 {\em Direct Nuclear Reactions\/} International series of
+  monographs on physics (Clarendon Press) ISBN 9780198512691
+
+\bibitem{globalAlpha}
+{Avrigeanu} V, {Hodgson} P~E and {Avrigeanu} M 1994 {\em Phys.Rev.\/} {\bf C49}
+  2136
+
+\bibitem{global6Li}
+{Cook} J 1982 {\em Nucl.Phys.\/} {\bf A388} 153
+
+\bibitem{fiveSA}
+{Kwasniewicz} E and {Jarczyk} L 1985 {\em Nucl.Phys.\/} {\bf A441} 77
+
+\bibitem{jarczyk1996}
+{Jarczyk} L, {Kamys} B, {Kistryn} M, {Magiera} A, {Rudy} Z, {Strzalkowski} A,
+  {Barna} R, {D'Amico} V, {De Pasquale} D, {Italiano} A and {Licandro} M 1996
+  {\em Phys.Rev.\/} {\bf C54} 1302
+
+\bibitem{coker1974}
+{Coker} W~R, {Udagawa} T and {Comfort} J~R 1974 {\em Phys.Rev.\/} {\bf C10}
+  1130
+
+\bibitem{canam}
+CANAM  \urlprefix\url{http://canam.ujf.cas.cz/}
+
+\end{thebibliography}

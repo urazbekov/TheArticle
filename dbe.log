@@ -1,0 +1,562 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.6)  8 APR 2019 16:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dbe.tex
+(./dbe.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./iopart.cls
+Document Class: iopart 1996/06/10 v0.0 IOP Journals LaTeX article class
+(./iopart10.clo
+File: iopart10.clo 1997/01/13 v1.0 IOP Book file (size option)
+)
+\c@jnl=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\indentedwidth=\skip43
+\mathindent=\dimen102
+\c@eqnval=\count87
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen105
+\lightrulewidth=\dimen106
+\cmidrulewidth=\dimen107
+\belowrulesep=\dimen108
+\belowbottomsep=\dimen109
+\aboverulesep=\dimen110
+\abovetopsep=\dimen111
+\cmidrulesep=\dimen112
+\cmidrulekern=\dimen113
+\defaultaddspace=\dimen114
+\@cmidla=\count89
+\@cmidlb=\count90
+\@aboverulesep=\dimen115
+\@belowrulesep=\dimen116
+\@thisruleclass=\count91
+\@lastruleclass=\count92
+\@thisrulewidth=\dimen117
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/dblfloatfix/dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count93
+\c@dblbotnumber=\count94
+) (./iopams.sty
+Package: iopams 1997/02/13 v1.0
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen118
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen119
+)) (./dbe.aux)
+\openout1 = `dbe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen120
+\scratchbox=\box26
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen121
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ú in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ù in font cmr8!
+ [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 2050) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/10 the deformed shape reflected in the nuclear
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 89--91
+\OT1/cmr/m/n/10 attention was focused on the breakup processes
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 94--95
+\OT1/cmr/m/n/10 experimental data led to the applicability of the
+ []
+
+[2
+
+]
+Underfull \hbox (badness 1117) in paragraph at lines 103--107
+\OT1/cmr/m/n/10 To detect reaction product in narrow divergence,
+ []
+
+Package epstopdf Info: Source file: <dE_E.eps>
+(epstopdf)                    date: 2016-04-05 14:23:34
+(epstopdf)                    size: 4503183 bytes
+(epstopdf)             Output file: <dE_E-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-16 18:07:06
+(epstopdf)                    size: 603585 bytes
+(epstopdf)             Command: <repstopdf --outfile=dE_E-eps-converted-to.pdf 
+dE_E.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+<dE_E-eps-converted-to.pdf, id=26, 569.12625pt x 385.44pt>
+File: dE_E-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dE_E-eps-converted-to.pdf>
+Package pdftex.def Info: dE_E-eps-converted-to.pdf used on input line 110.
+(pdftex.def)             Requested size: 233.3125pt x 158.01378pt.
+Package epstopdf Info: Source file: <d_Etot_Fig2.eps>
+(epstopdf)                    date: 2018-10-15 15:55:26
+(epstopdf)                    size: 1546578 bytes
+(epstopdf)             Output file: <d_Etot_Fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-16 18:07:07
+(epstopdf)                    size: 37360 bytes
+(epstopdf)             Command: <repstopdf --outfile=d_Etot_Fig2-eps-converted-
+to.pdf d_Etot_Fig2.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<d_Etot_Fig2-eps-converted-to.pdf, id=27, 559.08875pt x 412.54124pt>
+File: d_Etot_Fig2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use d_Etot_Fig2-eps-converted-to.pdf>
+Package pdftex.def Info: d_Etot_Fig2-eps-converted-to.pdf used on input line 11
+6.
+(pdftex.def)             Requested size: 233.3125pt x 172.15823pt.
+
+Underfull \hbox (badness 1173) in paragraph at lines 125--126
+\OT1/cmr/m/n/10 is in identification of the particles $\OML/cmm/m/it/10 p; d; t
+$\OT1/cmr/m/n/10 , and $\OML/cmm/m/it/10 $
+ []
+
+Package epstopdf Info: Source file: <2H9BE.eps>
+(epstopdf)                    date: 2019-03-29 13:16:00
+(epstopdf)                    size: 65975 bytes
+(epstopdf)             Output file: <2H9BE-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:16:04
+(epstopdf)                    size: 38006 bytes
+(epstopdf)             Command: <repstopdf --outfile=2H9BE-eps-converted-to.pdf
+ 2H9BE.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+<2H9BE-eps-converted-to.pdf, id=28, 285.065pt x 227.85126pt>
+File: 2H9BE-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 2H9BE-eps-converted-to.pdf>
+Package pdftex.def Info: 2H9BE-eps-converted-to.pdf used on input line 137.
+(pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--167
+
+ []
+
+[3 <./dE_E-eps-converted-to.pdf> <./d_Etot_Fig2-eps-converted-to.pdf>]
+Underfull \hbox (badness 4859) in paragraph at lines 190--191
+[]\OT1/cmr/m/n/10 The WS optical potential parameters were
+ []
+
+Package epstopdf Info: Source file: <POT.eps>
+(epstopdf)                    date: 2019-03-29 13:18:11
+(epstopdf)                    size: 60080 bytes
+(epstopdf)             Output file: <POT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:18:51
+(epstopdf)                    size: 26413 bytes
+(epstopdf)             Command: <repstopdf --outfile=POT-eps-converted-to.pdf P
+OT.eps>
+(epstopdf)             \includegraphics on input line 197.
+Package epstopdf Info: Output file is already uptodate.
+<POT-eps-converted-to.pdf, id=66, 285.065pt x 227.85126pt>
+File: POT-eps-converted-to.pdf Graphic file (type pdf)
+
+<use POT-eps-converted-to.pdf>
+Package pdftex.def Info: POT-eps-converted-to.pdf used on input line 197.
+(pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
+ [4 <./2H9BE-eps-converted-to.pdf> <./POT-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <2H9BE2430MEV.eps>
+(epstopdf)                    date: 2019-03-29 13:17:12
+(epstopdf)                    size: 81027 bytes
+(epstopdf)             Output file: <2H9BE2430MEV-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:18:52
+(epstopdf)                    size: 45421 bytes
+(epstopdf)             Command: <repstopdf --outfile=2H9BE2430MEV-eps-converted
+-to.pdf 2H9BE2430MEV.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+<2H9BE2430MEV-eps-converted-to.pdf, id=158, 285.065pt x 227.85126pt>
+File: 2H9BE2430MEV-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 2H9BE2430MEV-eps-converted-to.pdf>
+Package pdftex.def Info: 2H9BE2430MEV-eps-converted-to.pdf used on input line 2
+28.
+(pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
+
+Underfull \hbox (badness 4168) in paragraph at lines 230--230
+[]\OT1/cmr/bx/n/8 Figure 5. []\OT1/cmr/m/n/8 The cross sections of inelastic sc
+attering
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 247--249
+[]\OT1/cmr/m/n/10 The DF potential was used in the DWBA
+ []
+
+Package epstopdf Info: Source file: <9BE8BECC.eps>
+(epstopdf)                    date: 2019-02-01 16:13:16
+(epstopdf)                    size: 2009226 bytes
+(epstopdf)             Output file: <9BE8BECC-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-01 16:13:18
+(epstopdf)                    size: 29979 bytes
+(epstopdf)             Command: <repstopdf --outfile=9BE8BECC-eps-converted-to.
+pdf 9BE8BECC.eps>
+(epstopdf)             \includegraphics on input line 255.
+Package epstopdf Info: Output file is already uptodate.
+<9BE8BECC-eps-converted-to.pdf, id=159, 203.76125pt x 194.7275pt>
+File: 9BE8BECC-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 9BE8BECC-eps-converted-to.pdf>
+Package pdftex.def Info: 9BE8BECC-eps-converted-to.pdf used on input line 255.
+(pdftex.def)             Requested size: 173.19786pt x 165.51913pt.
+ [5 <./2H9BE2430MEV-eps-converted-to.pdf> <./9BE8BECC-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <1H10BE.eps>
+(epstopdf)                    date: 2019-03-29 13:16:46
+(epstopdf)                    size: 87099 bytes
+(epstopdf)             Output file: <1H10BE-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:18:52
+(epstopdf)                    size: 54315 bytes
+(epstopdf)             Command: <repstopdf --outfile=1H10BE-eps-converted-to.pd
+f 1H10BE.eps>
+(epstopdf)             \includegraphics on input line 275.
+Package epstopdf Info: Output file is already uptodate.
+
+<1H10BE-eps-converted-to.pdf, id=221, 285.065pt x 343.2825pt>
+File: 1H10BE-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1H10BE-eps-converted-to.pdf>
+Package pdftex.def Info: 1H10BE-eps-converted-to.pdf used on input line 275.
+(pdftex.def)             Requested size: 228.0523pt x 274.62636pt.
+Package epstopdf Info: Source file: <3H8BE.eps>
+(epstopdf)                    date: 2019-03-29 13:17:49
+(epstopdf)                    size: 94132 bytes
+(epstopdf)             Output file: <3H8BE-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:18:53
+(epstopdf)                    size: 49521 bytes
+(epstopdf)             Command: <repstopdf --outfile=3H8BE-eps-converted-to.pdf
+ 3H8BE.eps>
+(epstopdf)             \includegraphics on input line 280.
+Package epstopdf Info: Output file is already uptodate.
+
+<3H8BE-eps-converted-to.pdf, id=222, 285.065pt x 343.2825pt>
+File: 3H8BE-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 3H8BE-eps-converted-to.pdf>
+Package pdftex.def Info: 3H8BE-eps-converted-to.pdf used on input line 280.
+(pdftex.def)             Requested size: 228.0523pt x 274.62636pt.
+Package epstopdf Info: Source file: <4HE7LI.eps>
+(epstopdf)                    date: 2019-03-29 13:18:49
+(epstopdf)                    size: 181626 bytes
+(epstopdf)             Output file: <4HE7LI-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-29 13:18:53
+(epstopdf)                    size: 100245 bytes
+(epstopdf)             Command: <repstopdf --outfile=4HE7LI-eps-converted-to.pd
+f 4HE7LI.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+
+<4HE7LI-eps-converted-to.pdf, id=223, 483.8075pt x 342.27875pt>
+File: 4HE7LI-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 4HE7LI-eps-converted-to.pdf>
+Package pdftex.def Info: 4HE7LI-eps-converted-to.pdf used on input line 362.
+(pdftex.def)             Requested size: 435.42273pt x 308.048pt.
+
+Underfull \hbox (badness 2894) in paragraph at lines 367--368
+[]\OT1/cmr/m/n/10 The CC potentials were used in the CRC
+ []
+
+[6 <./1H10BE-eps-converted-to.pdf> <./3H8BE-eps-converted-to.pdf>]
+Underfull \hbox (badness 1142) in paragraph at lines 373--374
+\OT1/cmr/m/n/10 i.e. neutron pickup and dineutron stripping, at
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 375--376
+[]\OT1/cmr/m/n/10 The applicability of the CRC approach to
+ []
+
+Package epstopdf Info: Source file: <4HE7LiCC.eps>
+(epstopdf)                    date: 2019-02-04 11:35:20
+(epstopdf)                    size: 1974102 bytes
+(epstopdf)             Output file: <4HE7LiCC-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-04 11:35:42
+(epstopdf)                    size: 23191 bytes
+(epstopdf)             Command: <repstopdf --outfile=4HE7LiCC-eps-converted-to.
+pdf 4HE7LiCC.eps>
+(epstopdf)             \includegraphics on input line 380.
+Package epstopdf Info: Output file is already uptodate.
+<4HE7LiCC-eps-converted-to.pdf, id=329, 234.8775pt x 114.4275pt>
+File: 4HE7LiCC-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 4HE7LiCC-eps-converted-to.pdf>
+Package pdftex.def Info: 4HE7LiCC-eps-converted-to.pdf used on input line 380.
+(pdftex.def)             Requested size: 187.90225pt x 91.54211pt.
+
+Underfull \hbox (badness 1297) in paragraph at lines 381--381
+[]\OT1/cmr/bx/n/8 Figure 10. []\OT1/cmr/m/n/8 The scheme illustrating mechanism
+s in the
+ []
+
+[7]
+Underfull \hbox (badness 1325) in paragraph at lines 392--393
+[]\OT1/cmr/m/n/10 The transition amplitudes of transferring the
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 418--419
+\OT1/cmr/m/n/10 transfer reactions, the transition amplitudes were
+ []
+
+[8 <./4HE7LiCC-eps-converted-to.pdf> <./4HE7LI-eps-converted-to.pdf>]
+Underfull \hbox (badness 1383) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 reaction with low-lying excited states of the $[]$Li
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 423--425
+[]\OT1/cmr/m/n/10 In all channels starting from angle 120, the
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 423--425
+\OT1/cmr/m/n/10 transfer of the $[]$He cluster has a predominant
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 426--427
+[]\OT1/cmr/m/n/10 The next mechanism, which has a rather
+ []
+
+Package epstopdf Info: Source file: <CS.eps>
+(epstopdf)                    date: 2019-04-01 15:03:15
+(epstopdf)                    size: 52041 bytes
+(epstopdf)             Output file: <CS-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-01 15:03:24
+(epstopdf)                    size: 26020 bytes
+(epstopdf)             Command: <repstopdf --outfile=CS-eps-converted-to.pdf CS
+.eps>
+(epstopdf)             \includegraphics on input line 439.
+Package epstopdf Info: Output file is already uptodate.
+<CS-eps-converted-to.pdf, id=417, 285.065pt x 227.85126pt>
+File: CS-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CS-eps-converted-to.pdf>
+Package pdftex.def Info: CS-eps-converted-to.pdf used on input line 439.
+(pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
+ [9 <./CS-eps-converted-to.pdf>]
+Underfull \hbox (badness 1168) in paragraph at lines 449--450
+\OT1/cmr/m/n/10 reaction the $[]$He heavy cluster is transferred
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 450--451
+[]\OT1/cmr/m/n/10 The importance of taking into account the
+ []
+
+(./dbe.bbl
+Underfull \hbox (badness 1062) in paragraph at lines 31--36
+\OT1/cmr/m/n/8 Y, Trzaska W H, Burjan V, Kroha V, Mrazek J,
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 122--127
+[]\OT1/cmr/m/n/8 Rudchik A T, Chercas K A, Kemper K W, Rusek
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 133--135
+[]\OT1/cmr/m/n/8 Avrigeanu V, Hodgson P E and Avrigeanu M 1994
+ []
+
+) [10] (./dbe.aux) ) 
+Here is how much of TeX's memory you used:
+ 2384 strings out of 492995
+ 30753 string characters out of 6132705
+ 128873 words of memory out of 5000000
+ 5884 multiletter control sequences out of 15000+600000
+ 12705 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,14n,26p,1240b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cmextra/cmex7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on dbe.pdf (10 pages, 1308988 bytes).
+PDF statistics:
+ 528 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.6)  8 APR 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.6)  15 APR 2019 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -216,13 +216,13 @@ Underfull \hbox (badness 2050) in paragraph at lines 66--67
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 89--91
-\OT1/cmr/m/n/10 attention was focused on the breakup processes
+Underfull \hbox (badness 1400) in paragraph at lines 70--72
+\OT1/cmr/m/n/10 These aspects led to take $[]$Be as a subject for
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 94--95
-\OT1/cmr/m/n/10 experimental data led to the applicability of the
+Underfull \hbox (badness 2469) in paragraph at lines 89--91
+\OT1/cmr/m/n/10 attention was focused on the breakup processes
  []
 
 [2
@@ -293,7 +293,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--167
 
  []
 
-[3 <./dE_E-eps-converted-to.pdf> <./d_Etot_Fig2-eps-converted-to.pdf>]
+[3 <./dE_E-eps-converted-to.pdf> <./d_Etot_Fig2-eps-converted-to.pdf> <./2H9BE-
+eps-converted-to.pdf>]
 Underfull \hbox (badness 4859) in paragraph at lines 190--191
 []\OT1/cmr/m/n/10 The WS optical potential parameters were
  []
@@ -308,13 +309,13 @@ Package epstopdf Info: Source file: <POT.eps>
 OT.eps>
 (epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
-<POT-eps-converted-to.pdf, id=66, 285.065pt x 227.85126pt>
+<POT-eps-converted-to.pdf, id=106, 285.065pt x 227.85126pt>
 File: POT-eps-converted-to.pdf Graphic file (type pdf)
 
 <use POT-eps-converted-to.pdf>
 Package pdftex.def Info: POT-eps-converted-to.pdf used on input line 197.
 (pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
- [4 <./2H9BE-eps-converted-to.pdf> <./POT-eps-converted-to.pdf>]
+ [4 <./POT-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <2H9BE2430MEV.eps>
 (epstopdf)                    date: 2019-03-29 13:17:12
 (epstopdf)                    size: 81027 bytes
@@ -553,7 +554,7 @@ xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive
 /2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dbe.pdf (10 pages, 1308988 bytes).
+Output written on dbe.pdf (10 pages, 1308378 bytes).
 PDF statistics:
  528 PDF objects out of 1000 (max. 8388607)
  219 compressed objects within 3 object streams

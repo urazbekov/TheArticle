@@ -7,45 +7,45 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty year in volya
 Warning--empty year in canam
 Warning--empty journal in canam
-You've used 35 entries,
+You've used 34 entries,
             3033 wiz_defined-function locations,
-            825 strings with 11732 characters,
-and the built_in function-call counts, 49000 in all, are:
-= -- 6035
-> -- 725
+            821 strings with 11681 characters,
+and the built_in function-call counts, 48715 in all, are:
+= -- 6013
+> -- 723
 < -- 0
-+ -- 339
-- -- 274
-* -- 3511
-:= -- 5272
++ -- 340
+- -- 275
+* -- 3491
+:= -- 5263
 add.period$ -- 0
-call.type$ -- 35
+call.type$ -- 34
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 38
-duplicate$ -- 4309
-empty$ -- 4456
-format.name$ -- 237
-if$ -- 11391
+cite$ -- 37
+duplicate$ -- 4267
+empty$ -- 4407
+format.name$ -- 236
+if$ -- 11309
 int.to.chr$ -- 0
-int.to.str$ -- 35
-missing$ -- 484
-newline$ -- 115
-num.names$ -- 35
-pop$ -- 879
+int.to.str$ -- 34
+missing$ -- 475
+newline$ -- 112
+num.names$ -- 34
+pop$ -- 860
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 342
+skip$ -- 338
 stack$ -- 0
-substring$ -- 8605
-swap$ -- 1016
+substring$ -- 8601
+swap$ -- 1005
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 539
-width$ -- 37
-write$ -- 287
+while$ -- 544
+width$ -- 36
+write$ -- 277
 (There were 3 warnings)

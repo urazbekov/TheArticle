@@ -127,20 +127,23 @@ The capability of current experimental technique is in identification of the par
 \caption{\label{potpar}  Potential parameters of the d+$^9$Be system used in the OM, the CC and the DWBA calculations.  }
 \begin{tabular*}{\textwidth}{l l  @{\extracolsep{\fill}} l l l l l l l l l l l  l}
 \br
-E$_d$, &The           &	$V_0$, &	$r_V$, & $a_V$,  & $W^D_0$, &$r_D$, &	$a_D$, & $V^{SO}_0$, & $J_V$,           & $J_W$		 & $\chi^2$/2 \\
+E$_d$, &The           &	$V_0$, &	$r_V^{a)}$, & $a_V$,  & $W^D_0$, &$r_D^{a)}$, &	$a_D$, & $V^{SO}_0$, & $J_V^{b)}$,           & $J_W^{b)}$		 & $\chi^2$/2 \\
 MeV		& potential & MeV		&    fm	   & fm         & MeV		       & fm	    & fm	         & MeV              & MeV fm$^3$ & MeV fm$^3$		& ~	 \\
 \mr
-19.5 & DF	& \multicolumn{3}{c}{ $N_R=1.93^{ ~a)}$} &  14.89 &  0.63$^{ ~b)}$	&  0.854 & 5.56 &	617.4 &   69.7 & 	9.3	 \\
-35.0 &  DF	& \multicolumn{3}{c}{ $N_R=1.81^{ ~a)}$} &   14.89	& 0.63	&  0.88	& 5.56 &	587.7 & 71.2 & 	5.2	 \\
+19.5 & DF	& \multicolumn{3}{c}{ $N_R=1.93^{ ~c)}$} &  14.89 &  0.630	&  0.854 & 5.56 &	617.4 &   69.7 & 	7.3	 \\
+35.0 &  DF	& \multicolumn{3}{c}{ $N_R=1.81^{ ~c)}$} &   14.89	& 0.630&  0.88	& 5.56 &	587.7 & 71.2 & 	5.2	 \\
  19.5	& 	WS	& 61.97	 & 0.799	&  0.707 &  7.45	& 0.762	& 1.044 & 5.52 & 575.7 & 51.4  & 	4.8 \\
   35.0& WS	& 58.01	 & 0.799	&  0.707 &  7.52	& 0.762	& 1.044 & 5.52 & 435.1 & 51.8 & 3.4	  \\
-19.5 & CC 	& 77.87	 & 0.87	&  0.78 &  7.92	& 0.816	& 0.802 & 2.8 & 762.0 & 52.5 & 	8.4  \\
-35.0& CC 	& 73.9	 & 0.75	&  0.77 &  8.93	& 0.816	& 0.802 & 2.8 & 524.0 & 59.2 & 	7.1 \\
+19.5 & CC 	& 77.87	 & 0.831	&  0.780 &  7.12	& 0.816	& 0.802 & 2.8 & 690.9 & 47.2 & 	8.4  \\
+35.0& CC 	& 73.9	 & 0.752	&  0.770 &  7.47	& 0.816	& 0.802 & 2.8 & 524.0 & 49.6 & 	7.1 \\
 \br
 \end{tabular*}
 \scriptsize
+
 $^{a)}$ The DF potential was taken as a real volume part of the optical potential with the normalization parameter $N_R$.  \\
-$^{b)}$ Radii of the potential were defined as $R_i = r_i \left( A^{1/3}_P+A^{1/3}_T \right)$.  \\
+$^{b)}$ The volume integrals are divided to the number of nucleons in colliding nuclei.
+\\
+$^{c)}$ Radii of the potential were defined as $R_i = r_i \left( A^{1/3}_P+A^{1/3}_T \right)$.  \\
 \end{table*}
 
 The theoretical calculations  of the deuteron  elastic scattering  on  $^9$Be  at 19.5 and 35 MeV energies have been made in the framework of the OM. The model suggests interaction between two colliding nuclei in the following way:
@@ -198,7 +201,8 @@ section in comparison with the theoretical curves corresponding to the OM calcul
 
 A specific feature of the DF potential in comparison with the empirical ones is slow descending in peripheral region $r \geq 6$ fm. This is due to the broad matter density distribution of the valence neutron in $^9$Be, which also decreases slowly \cite{urazbekov2016}.
 
-The CC potential was taken within the Coupled Channels approach that reproduces the cross section of elastic scattering and inelastic scattering data well. The coupling scheme includes the $\frac{3}{2}^-$ground and  $\frac{5}{2}^-$, $\frac{7}{2}^-$ excited states and spin re-orientations of $^9$Be. It is interesting to note that the values of volume integrals (see Tab. \ref{potpar}) of the CC potential are different over other potentials: the real part is larger and the imaginary part is smaller. It follows from the explicit inclusion of the d+$^9$Be$^{\frac{5}{2}^-, \frac{7}{2}^-}$ inelastic channels in the analysis, which are transferred from the imaginary space to the real space. This kind of behaviour corresponds to the optical theorem.
+The CC potential was taken within the Coupled Channels approach that reproduces the cross section of elastic scattering and inelastic scattering data well. The coupling scheme includes the $\frac{3}{2}^-$ground and  $\frac{5}{2}^-$, $\frac{7}{2}^-$ excited states and spin re-orientations of $^9$Be. 
+It is interesting to note that the values of volume integrals (see Tab. \ref{potpar}) of the CC potential are different over other potentials: the real part is larger and the imaginary part is smaller. It follows from the explicit inclusion of the d+$^9$Be$^{\frac{5}{2}^-, \frac{7}{2}^-}$ inelastic channels in the analysis, which are transferred from the imaginary space to the real space. This kind of behaviour corresponds to the optical theorem.
 
 %It also should  be noted that the potentials have almost identical behaviour in the region of the contact of colliding nuclei $\sim3.5-4.0$ fm. % Странное заключение, для 19 МэВ заметное расхождение во всей области!
 

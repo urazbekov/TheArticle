@@ -3,49 +3,50 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: dbe.aux
 The style file: iopart-num.bst
 Database file #1: urazbekov.bib
+Warning--I didn't find a database entry for "?"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty year in volya
 Warning--empty year in canam
 Warning--empty journal in canam
-You've used 33 entries,
+You've used 34 entries,
             3033 wiz_defined-function locations,
-            816 strings with 11536 characters,
-and the built_in function-call counts, 47788 in all, are:
-= -- 5907
-> -- 711
+            821 strings with 11637 characters,
+and the built_in function-call counts, 48064 in all, are:
+= -- 5932
+> -- 715
 < -- 0
-+ -- 333
-- -- 270
-* -- 3430
-:= -- 5156
++ -- 335
+- -- 271
+* -- 3443
+:= -- 5186
 add.period$ -- 0
-call.type$ -- 33
-change.case$ -- 0
+call.type$ -- 34
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 4183
-empty$ -- 4319
-format.name$ -- 232
-if$ -- 11098
+cite$ -- 37
+duplicate$ -- 4216
+empty$ -- 4349
+format.name$ -- 233
+if$ -- 11160
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 464
-newline$ -- 109
-num.names$ -- 33
-pop$ -- 838
+int.to.str$ -- 34
+missing$ -- 469
+newline$ -- 112
+num.names$ -- 34
+pop$ -- 849
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 328
+skip$ -- 333
 stack$ -- 0
-substring$ -- 8455
-swap$ -- 981
+substring$ -- 8481
+swap$ -- 990
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 531
-width$ -- 35
-write$ -- 269
-(There were 3 warnings)
+while$ -- 533
+width$ -- 36
+write$ -- 276
+(There were 4 warnings)

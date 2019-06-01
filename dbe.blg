@@ -3,31 +3,30 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: dbe.aux
 The style file: iopart-num.bst
 Database file #1: urazbekov.bib
-Warning--I didn't find a database entry for "?"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty year in volya
 Warning--empty year in canam
 Warning--empty journal in canam
 You've used 34 entries,
             3033 wiz_defined-function locations,
-            821 strings with 11637 characters,
-and the built_in function-call counts, 48064 in all, are:
-= -- 5932
+            819 strings with 11611 characters,
+and the built_in function-call counts, 48187 in all, are:
+= -- 5955
 > -- 715
 < -- 0
 + -- 335
 - -- 271
-* -- 3443
-:= -- 5186
+* -- 3452
+:= -- 5195
 add.period$ -- 0
 call.type$ -- 34
 change.case$ -- 2
 chr.to.int$ -- 0
 cite$ -- 37
-duplicate$ -- 4216
-empty$ -- 4349
+duplicate$ -- 4230
+empty$ -- 4358
 format.name$ -- 233
-if$ -- 11160
+if$ -- 11192
 int.to.chr$ -- 0
 int.to.str$ -- 34
 missing$ -- 469
@@ -39,7 +38,7 @@ purify$ -- 0
 quote$ -- 0
 skip$ -- 333
 stack$ -- 0
-substring$ -- 8481
+substring$ -- 8508
 swap$ -- 990
 text.length$ -- 0
 text.prefix$ -- 0
@@ -49,4 +48,4 @@ warning$ -- 3
 while$ -- 533
 width$ -- 36
 write$ -- 276
-(There were 4 warnings)
+(There were 3 warnings)

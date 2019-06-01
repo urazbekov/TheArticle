@@ -68,8 +68,12 @@ Lukyanov S~M, Harakeh M~N, Naumenko M~A, Xu Y, Trzaska W~H, Burjan V, Kroha V,
 {Urazbekov} B~A, {Denikin} A~S, {Sakhiev} S~K and {Lukyanov} S~M 2017 {\em
   Bull.Rus.Acad.Sci.Phys.\/} {\bf 81} 690
 
-\bibitem{globalDeuteron}
-{An} H and {Cai} C 2006 {\em Phys.Rev. C\/} {\bf 73} 054605
+\bibitem{rudchik2016}
+{Rudchik} A~T, {Chercas} K~A, {Kemper} K~W, {Rusek} K, {Rudchik} A~A,
+  {Herashchenko} O~V, {Koshchy} E~I, {Pirnak} V~M, {Piasecki} E, {Trzcinska} A,
+  {Sakuta} S~B, {Siudak} R, {Strojek} I, {Stolarz} A, {Ilyin} A~P,
+  {Ponkratenko} O~A, {Stepanenko} Y~M, {Shyrma} Y~O, {Szczurek} A and
+  {Uleshchenko} V~V 2016 {\em Nucl.Phys.\/} {\bf A947} 161
 
 \bibitem{fresco}
 Thompson I~J 1988 {\em Computer Physics Reports\/} {\bf 7} 167 -- 212
@@ -115,16 +119,12 @@ Caurier E, Mart\'{\i}nez-Pinedo G, Nowacki F, Poves A and Zuker A~P 2005 {\em
 \bibitem{volya2017}
 {Kravvaris} K and {Volya} A 2017 {\em Phys.Rev.Lett.\/} {\bf 119} 062501
 
+\bibitem{rocca2018}
+{Della Rocca} V and {Iachello} F 2018 {\em Nucl.Phys.\/} {\bf A973} 1
+
 \bibitem{galanina2012}
 {Galanina} L~I and {Zelenskaya} N~S 2012 {\em Physics of Part.and Nuclei\/}
   {\bf 43} 147
-
-\bibitem{rudchik2016}
-{Rudchik} A~T, {Chercas} K~A, {Kemper} K~W, {Rusek} K, {Rudchik} A~A,
-  {Herashchenko} O~V, {Koshchy} E~I, {Pirnak} V~M, {Piasecki} E, {Trzcinska} A,
-  {Sakuta} S~B, {Siudak} R, {Strojek} I, {Stolarz} A, {Ilyin} A~P,
-  {Ponkratenko} O~A, {Stepanenko} Y~M, {Shyrma} Y~O, {Szczurek} A and
-  {Uleshchenko} V~V 2016 {\em Nucl.Phys.\/} {\bf A947} 161
 
 \bibitem{globalAlpha}
 {Avrigeanu} V, {Hodgson} P~E and {Avrigeanu} M 1994 {\em Phys.Rev.\/} {\bf C49}

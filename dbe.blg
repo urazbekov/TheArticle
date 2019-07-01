@@ -9,7 +9,7 @@ Warning--empty year in canam
 Warning--empty journal in canam
 You've used 34 entries,
             3033 wiz_defined-function locations,
-            819 strings with 11611 characters,
+            818 strings with 11507 characters,
 and the built_in function-call counts, 48187 in all, are:
 = -- 5955
 > -- 715

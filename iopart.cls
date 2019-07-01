@@ -11,7 +11,7 @@
 %% \CharacterTable
 %%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
 %%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
-%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Digits        \0\1\2\3\4\5\6\7\8\9eta
 %%   Exclamation   \!     Double quote  \"     Hash (number) \#
 %%   Dollar        \$     Percent       \%     Ampersand     \&
 %%   Acute accent  \'     Left paren    \(     Right paren   \)
@@ -937,7 +937,7 @@ $$\halign to
 \newcommand{\ns}{\noalign{\vspace{-3\p@ plus-1\p@ minus-1\p@}}}
 \newcommand{\es}{\noalign{\vspace{6\p@ plus2\p@ minus2\p@}}\displaystyle}%
 %
-\newcommand{\etal}{{\it et al\/}\ }
+\newcommand{\etal}{{\it et al.\/}\ }
 \newcommand{\dash}{------}
 \newcommand{\nonum}{\par\item[]}                %\par added 1/9/93
 \newcommand{\mat}[1]{\underline{\underline{#1}}}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.6)  24 JUN 2019 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.6)  30 JUL 2019 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -211,107 +211,82 @@ Missing character: There is no ù in font cmr8!
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 2368) in paragraph at lines 57--58
+Underfull \hbox (badness 2368) in paragraph at lines 59--60
 \OT1/cmr/m/n/10 processes of nuclear reactions. Investigation of
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 61--62
+Underfull \hbox (badness 2050) in paragraph at lines 63--64
 []\OT1/cmr/m/n/10 the deformed shape reflected in the nuclear
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 65--67
+Underfull \hbox (badness 1400) in paragraph at lines 67--69
 \OT1/cmr/m/n/10 These aspects led to take $[]$Be as a subject for
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 79--81
+Underfull \hbox (badness 2469) in paragraph at lines 81--83
 \OT1/cmr/m/n/10 attention was focused on the breakup processes
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 84--85
+Underfull \hbox (badness 1622) in paragraph at lines 86--87
 \OT1/cmr/m/n/10 structure [[], []]. The interaction potential of
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 84--85
+Underfull \hbox (badness 1117) in paragraph at lines 86--87
 \OT1/cmr/m/n/10 with experimental data led to application of the
  []
 
 [2
 
-]
-Package epstopdf Info: Source file: <dE_E.eps>
-(epstopdf)                    date: 2019-06-24 16:06:33
-(epstopdf)                    size: 7433962 bytes
-(epstopdf)             Output file: <dE_E-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-24 16:06:39
-(epstopdf)                    size: 609476 bytes
-(epstopdf)             Command: <repstopdf --outfile=dE_E-eps-converted-to.pdf 
-dE_E.eps>
-(epstopdf)             \includegraphics on input line 97.
-Package epstopdf Info: Output file is already uptodate.
- <dE_E-eps-converted-to.pdf, id=26, 569.12625pt x 386.44376pt>
-File: dE_E-eps-converted-to.pdf Graphic file (type pdf)
+] <fig1.pdf, id=24, 227.62239pt x 170.7168pt>
+File: fig1.pdf Graphic file (type pdf)
+ <use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 99.
+(pdftex.def)             Requested size: 233.3125pt x 174.99365pt.
 
-<use dE_E-eps-converted-to.pdf>
-Package pdftex.def Info: dE_E-eps-converted-to.pdf used on input line 97.
-(pdftex.def)             Requested size: 233.3125pt x 158.42526pt.
-Package epstopdf Info: Source file: <d_Etot_Fig2.eps>
-(epstopdf)                    date: 2019-06-24 16:03:12
-(epstopdf)                    size: 1551986 bytes
-(epstopdf)             Output file: <d_Etot_Fig2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-24 16:03:21
-(epstopdf)                    size: 37225 bytes
-(epstopdf)             Command: <repstopdf --outfile=d_Etot_Fig2-eps-converted-
-to.pdf d_Etot_Fig2.eps>
-(epstopdf)             \includegraphics on input line 103.
-Package epstopdf Info: Output file is already uptodate.
+<fig2.pdf, id=25, 227.62239pt x 170.7168pt>
+File: fig2.pdf Graphic file (type pdf)
+ <use fig2.pdf>
+Package pdftex.def Info: fig2.pdf used on input line 105.
+(pdftex.def)             Requested size: 233.3125pt x 174.99365pt.
 
-<d_Etot_Fig2-eps-converted-to.pdf, id=27, 559.08875pt x 412.54124pt>
-File: d_Etot_Fig2-eps-converted-to.pdf Graphic file (type pdf)
-
-<use d_Etot_Fig2-eps-converted-to.pdf>
-Package pdftex.def Info: d_Etot_Fig2-eps-converted-to.pdf used on input line 10
-3.
-(pdftex.def)             Requested size: 233.3125pt x 172.15823pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--137
+Underfull \hbox (badness 10000) in paragraph at lines 125--139
 
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 149--150
+Underfull \hbox (badness 3343) in paragraph at lines 151--152
 \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 V[]; W[]; V[];$ \OT1/cmr/m/n/10 and $\O
 ML/cmm/m/it/10 V[]$ \OT1/cmr/m/n/10 are real volume,
  []
 
-Package epstopdf Info: Source file: <2H9BE_old.eps>
+Package epstopdf Info: Source file: <2H9BE.eps>
 (epstopdf)                    date: 2019-06-22 19:06:15
 (epstopdf)                    size: 55222 bytes
-(epstopdf)             Output file: <2H9BE_old-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-22 19:06:19
+(epstopdf)             Output file: <2H9BE-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-07-29 21:12:52
 (epstopdf)                    size: 37337 bytes
-(epstopdf)             Command: <repstopdf --outfile=2H9BE_old-eps-converted-to
-.pdf 2H9BE_old.eps>
-(epstopdf)             \includegraphics on input line 161.
+(epstopdf)             Command: <repstopdf --outfile=2H9BE-eps-converted-to.pdf
+ 2H9BE.eps>
+(epstopdf)             \includegraphics on input line 163.
 Package epstopdf Info: Output file is already uptodate.
-<2H9BE_old-eps-converted-to.pdf, id=28, 285.065pt x 227.85126pt>
-File: 2H9BE_old-eps-converted-to.pdf Graphic file (type pdf)
+<2H9BE-eps-converted-to.pdf, id=26, 285.065pt x 227.85126pt>
+File: 2H9BE-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 2H9BE_old-eps-converted-to.pdf>
-Package pdftex.def Info: 2H9BE_old-eps-converted-to.pdf used on input line 161.
-
+<use 2H9BE-eps-converted-to.pdf>
+Package pdftex.def Info: 2H9BE-eps-converted-to.pdf used on input line 163.
 (pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
 
-Underfull \hbox (badness 2671) in paragraph at lines 165--166
+Underfull \hbox (badness 2671) in paragraph at lines 167--168
 []\OT1/cmr/m/n/10 The DF potential was calculated using the
  []
 
-[3 <./dE_E-eps-converted-to.pdf> <./d_Etot_Fig2-eps-converted-to.pdf>]
-Underfull \hbox (badness 3364) in paragraph at lines 189--192
+[3 <./fig1.pdf> <./fig2.pdf>]
+Underfull \hbox (badness 3364) in paragraph at lines 191--194
 \OT1/cmr/m/n/10 calculations with the measured data for elastic
  []
 
@@ -323,27 +298,27 @@ Package epstopdf Info: Source file: <2H9BE2430MEV.eps>
 (epstopdf)                    size: 46884 bytes
 (epstopdf)             Command: <repstopdf --outfile=2H9BE2430MEV-eps-converted
 -to.pdf 2H9BE2430MEV.eps>
-(epstopdf)             \includegraphics on input line 195.
+(epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
-<2H9BE2430MEV-eps-converted-to.pdf, id=70, 285.065pt x 227.85126pt>
+<2H9BE2430MEV-eps-converted-to.pdf, id=112, 285.065pt x 227.85126pt>
 File: 2H9BE2430MEV-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 2H9BE2430MEV-eps-converted-to.pdf>
 Package pdftex.def Info: 2H9BE2430MEV-eps-converted-to.pdf used on input line 1
-95.
+97.
 (pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
 
-Underfull \hbox (badness 4168) in paragraph at lines 196--196
+Underfull \hbox (badness 4168) in paragraph at lines 198--198
 []\OT1/cmr/bx/n/8 Figure 4. []\OT1/cmr/m/n/8 The cross sections of inelastic sc
 attering
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 200--201
+Underfull \hbox (badness 1184) in paragraph at lines 202--203
 \OT1/cmr/m/n/10 to analyse the measured inelastic scattering data
  []
 
-[4 <./2H9BE_old-eps-converted-to.pdf> <./2H9BE2430MEV-eps-converted-to.pdf>]
+[4 <./2H9BE-eps-converted-to.pdf> <./2H9BE2430MEV-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <9BE8BECC.eps>
 (epstopdf)                    date: 2019-02-01 16:13:16
 (epstopdf)                    size: 2009226 bytes
@@ -352,14 +327,14 @@ Package epstopdf Info: Source file: <9BE8BECC.eps>
 (epstopdf)                    size: 29979 bytes
 (epstopdf)             Command: <repstopdf --outfile=9BE8BECC-eps-converted-to.
 pdf 9BE8BECC.eps>
-(epstopdf)             \includegraphics on input line 217.
+(epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
 
-<9BE8BECC-eps-converted-to.pdf, id=163, 203.76125pt x 194.7275pt>
+<9BE8BECC-eps-converted-to.pdf, id=205, 203.76125pt x 194.7275pt>
 File: 9BE8BECC-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 9BE8BECC-eps-converted-to.pdf>
-Package pdftex.def Info: 9BE8BECC-eps-converted-to.pdf used on input line 217.
+Package pdftex.def Info: 9BE8BECC-eps-converted-to.pdf used on input line 219.
 (pdftex.def)             Requested size: 173.19786pt x 165.51913pt.
 Package epstopdf Info: Source file: <1H10BE.eps>
 (epstopdf)                    date: 2019-06-22 17:20:49
@@ -369,14 +344,14 @@ Package epstopdf Info: Source file: <1H10BE.eps>
 (epstopdf)                    size: 53881 bytes
 (epstopdf)             Command: <repstopdf --outfile=1H10BE-eps-converted-to.pd
 f 1H10BE.eps>
-(epstopdf)             \includegraphics on input line 231.
+(epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
 
-<1H10BE-eps-converted-to.pdf, id=164, 285.065pt x 343.2825pt>
+<1H10BE-eps-converted-to.pdf, id=206, 285.065pt x 343.2825pt>
 File: 1H10BE-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 1H10BE-eps-converted-to.pdf>
-Package pdftex.def Info: 1H10BE-eps-converted-to.pdf used on input line 231.
+Package pdftex.def Info: 1H10BE-eps-converted-to.pdf used on input line 233.
 (pdftex.def)             Requested size: 228.0523pt x 274.62636pt.
 Package epstopdf Info: Source file: <3H8BE.eps>
 (epstopdf)                    date: 2019-06-22 17:21:04
@@ -386,21 +361,44 @@ Package epstopdf Info: Source file: <3H8BE.eps>
 (epstopdf)                    size: 53017 bytes
 (epstopdf)             Command: <repstopdf --outfile=3H8BE-eps-converted-to.pdf
  3H8BE.eps>
-(epstopdf)             \includegraphics on input line 236.
+(epstopdf)             \includegraphics on input line 238.
 Package epstopdf Info: Output file is already uptodate.
 
-<3H8BE-eps-converted-to.pdf, id=165, 285.065pt x 343.2825pt>
+<3H8BE-eps-converted-to.pdf, id=207, 285.065pt x 343.2825pt>
 File: 3H8BE-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 3H8BE-eps-converted-to.pdf>
-Package pdftex.def Info: 3H8BE-eps-converted-to.pdf used on input line 236.
+Package pdftex.def Info: 3H8BE-eps-converted-to.pdf used on input line 238.
 (pdftex.def)             Requested size: 228.0523pt x 274.62636pt.
 
-Underfull \hbox (badness 2229) in paragraph at lines 244--245
+Underfull \hbox (badness 2229) in paragraph at lines 246--247
 []\OT1/cmr/m/n/10 In order to construct the bound-state wave
  []
 
 [5 <./9BE8BECC-eps-converted-to.pdf>]
+Underfull \hbox (badness 1472) in paragraph at lines 319--324
+\OT1/cmr/m/n/10 especially in the range of 40-60 degrees. It is
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 325--329
+\OT1/cmr/m/n/9 2[]\OML/cmm/m/it/9 ;  []\OT1/cmr/m/n/9 5\OML/cmm/m/it/9 =\OT1/cm
+r/m/n/9 2[] \OMS/cmsy/m/n/9 ! \OT1/cmr/m/n/9 2[]\OML/cmm/m/it/9 ;  []\OT1/cmr/m
+/n/9 7\OML/cmm/m/it/9 =\OT1/cmr/m/n/9 2[] \OMS/cmsy/m/n/9 ! \OT1/cmr/m/n/9 2[]$
+  \OT1/cmr/m/n/10 transitions was
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 330--334
+[]\OT1/cmr/m/n/10 Figure 7[] displays the cross sections of the
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 341--342
+\OT1/cmr/m/n/10 to the specific behaviour of the cross section at
+ []
+
+[6 <./1H10BE-eps-converted-to.pdf> <./3H8BE-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <4HE7LI.eps>
 (epstopdf)                    date: 2019-06-22 17:26:17
 (epstopdf)                    size: 179608 bytes
@@ -409,79 +407,61 @@ Package epstopdf Info: Source file: <4HE7LI.eps>
 (epstopdf)                    size: 99013 bytes
 (epstopdf)             Command: <repstopdf --outfile=4HE7LI-eps-converted-to.pd
 f 4HE7LI.eps>
-(epstopdf)             \includegraphics on input line 315.
+(epstopdf)             \includegraphics on input line 349.
 Package epstopdf Info: Output file is already uptodate.
 
-<4HE7LI-eps-converted-to.pdf, id=180, 483.8075pt x 342.27875pt>
+<4HE7LI-eps-converted-to.pdf, id=330, 483.8075pt x 342.27875pt>
 File: 4HE7LI-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 4HE7LI-eps-converted-to.pdf>
-Package pdftex.def Info: 4HE7LI-eps-converted-to.pdf used on input line 315.
+Package pdftex.def Info: 4HE7LI-eps-converted-to.pdf used on input line 349.
 (pdftex.def)             Requested size: 435.42273pt x 308.048pt.
-
-Underfull \hbox (badness 1472) in paragraph at lines 322--327
-\OT1/cmr/m/n/10 especially in the range of 40-60 degrees. It is
- []
-
-
-Underfull \hbox (badness 1946) in paragraph at lines 328--332
-\OT1/cmr/m/n/9 2[]\OML/cmm/m/it/9 ;  []\OT1/cmr/m/n/9 5\OML/cmm/m/it/9 =\OT1/cm
-r/m/n/9 2[] \OMS/cmsy/m/n/9 ! \OT1/cmr/m/n/9 2[]\OML/cmm/m/it/9 ;  []\OT1/cmr/m
-/n/9 7\OML/cmm/m/it/9 =\OT1/cmr/m/n/9 2[] \OMS/cmsy/m/n/9 ! \OT1/cmr/m/n/9 2[]$
-  \OT1/cmr/m/n/10 transitions was
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 333--336
-[]\OT1/cmr/m/n/10 Figure 7[] displays the cross sections of the
- []
-
+ [7]
 Package epstopdf Info: Source file: <4HE7LiCC.eps>
 (epstopdf)                    date: 2019-02-04 11:35:20
 (epstopdf)                    size: 1974102 bytes
 (epstopdf)             Output file: <4HE7LiCC-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-04 11:35:42
+(epstopdf)                    date: 2019-07-30 00:21:14
 (epstopdf)                    size: 23191 bytes
 (epstopdf)             Command: <repstopdf --outfile=4HE7LiCC-eps-converted-to.
 pdf 4HE7LiCC.eps>
-(epstopdf)             \includegraphics on input line 342.
+(epstopdf)             \includegraphics on input line 370.
 Package epstopdf Info: Output file is already uptodate.
-<4HE7LiCC-eps-converted-to.pdf, id=181, 234.8775pt x 114.4275pt>
+
+<4HE7LiCC-eps-converted-to.pdf, id=336, 234.8775pt x 114.4275pt>
 File: 4HE7LiCC-eps-converted-to.pdf Graphic file (type pdf)
 
 <use 4HE7LiCC-eps-converted-to.pdf>
-Package pdftex.def Info: 4HE7LiCC-eps-converted-to.pdf used on input line 342.
+Package pdftex.def Info: 4HE7LiCC-eps-converted-to.pdf used on input line 370.
 (pdftex.def)             Requested size: 187.90225pt x 91.54211pt.
 
-Underfull \hbox (badness 1205) in paragraph at lines 347--348
-\OT1/cmr/m/n/10 to the specific behaviour of the cross section at
- []
-
-[6 <./1H10BE-eps-converted-to.pdf> <./3H8BE-eps-converted-to.pdf>] [7]
-Underfull \hbox (badness 1281) in paragraph at lines 374--375
+Underfull \hbox (badness 1281) in paragraph at lines 387--388
 \OT1/cmr/m/n/10 of the deuteron (dash-dotted curve) provides the
  []
 
-[8 <./4HE7LiCC-eps-converted-to.pdf> <./4HE7LI-eps-converted-to.pdf>]
+[8 <./4HE7LI-eps-converted-to.pdf> <./4HE7LiCC-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pnvsnp.eps>
 (epstopdf)                    date: 2019-05-10 09:46:42
 (epstopdf)                    size: 337914 bytes
 (epstopdf)             Output file: <pnvsnp-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-10 09:48:29
-(epstopdf)                    size: 71995 bytes
 (epstopdf)             Command: <repstopdf --outfile=pnvsnp-eps-converted-to.pd
 f pnvsnp.eps>
-(epstopdf)             \includegraphics on input line 385.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 398.
+runsystem(repstopdf --outfile=pnvsnp-eps-converted-to.pdf pnvsnp.eps)...execute
+d safely (allowed).
 
-<pnvsnp-eps-converted-to.pdf, id=375, 337.26pt x 251.94125pt>
+Package epstopdf Info: Result file: <pnvsnp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-07-30 00:29:59
+(epstopdf)                    size: 71995 bytes.
+
+<pnvsnp-eps-converted-to.pdf, id=418, 337.26pt x 251.94125pt>
 File: pnvsnp-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pnvsnp-eps-converted-to.pdf>
-Package pdftex.def Info: pnvsnp-eps-converted-to.pdf used on input line 385.
-(pdftex.def)             Requested size: 230.0pt x 171.81754pt.
+Package pdftex.def Info: pnvsnp-eps-converted-to.pdf used on input line 398.
+(pdftex.def)             Requested size: 233.3125pt x 174.29327pt.
 
-Underfull \hbox (badness 1983) in paragraph at lines 389--390
+Underfull \hbox (badness 1983) in paragraph at lines 402--403
 \OT1/cmr/m/n/10 It is due to the prominent cluster structure of
  []
 
@@ -493,33 +473,33 @@ Package epstopdf Info: Source file: <CS.eps>
 (epstopdf)                    size: 21409 bytes
 (epstopdf)             Command: <repstopdf --outfile=CS-eps-converted-to.pdf CS
 .eps>
-(epstopdf)             \includegraphics on input line 395.
+(epstopdf)             \includegraphics on input line 408.
 Package epstopdf Info: Output file is already uptodate.
-<CS-eps-converted-to.pdf, id=376, 285.065pt x 227.85126pt>
+<CS-eps-converted-to.pdf, id=419, 285.065pt x 227.85126pt>
 File: CS-eps-converted-to.pdf Graphic file (type pdf)
 
 <use CS-eps-converted-to.pdf>
-Package pdftex.def Info: CS-eps-converted-to.pdf used on input line 395.
+Package pdftex.def Info: CS-eps-converted-to.pdf used on input line 408.
 (pdftex.def)             Requested size: 233.3125pt x 186.4846pt.
 
-Underfull \hbox (badness 2237) in paragraph at lines 399--400
+Underfull \hbox (badness 2237) in paragraph at lines 412--413
 \OT1/cmr/m/n/10 involves the $[][]$Be = $[][]$Be$[](2[])$ + $\OML/cmm/m/it/10 n
 $ \OT1/cmr/m/n/10 intermediate
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 401--402
+Underfull \hbox (badness 1072) in paragraph at lines 414--415
 []\OT1/cmr/m/n/10 Figure 11[] shows the contributions of all the
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 401--402
+Underfull \hbox (badness 1117) in paragraph at lines 414--415
 \OT1/cmr/m/n/10 of the $[][]$Be($\OML/cmm/m/it/10 d; $\OT1/cmr/m/n/10 )$[][]$L
 i$[]$ reaction (see Fig. 9[]) as a
  []
 
 [9 <./pnvsnp-eps-converted-to.pdf> <./CS-eps-converted-to.pdf>]
-Underfull \hbox (badness 1721) in paragraph at lines 406--415
+Underfull \hbox (badness 1721) in paragraph at lines 419--428
 \OT1/cmr/m/n/10 19.5 and 35 MeV. The calculated double-folding
  []
 
@@ -533,45 +513,47 @@ Underfull \hbox (badness 1701) in paragraph at lines 120--125
 []\OT1/cmr/m/n/8 Rudchik A T, Chercas K A, Kemper K W, Rusek
  []
 
-) [10] (./dbe.aux) ) 
+[10]) [11
+
+] (./dbe.aux) ) 
 Here is how much of TeX's memory you used:
- 2396 strings out of 492995
- 30899 string characters out of 6132705
- 130869 words of memory out of 5000000
- 5891 multiletter control sequences out of 15000+600000
+ 2395 strings out of 492995
+ 30701 string characters out of 6132705
+ 129861 words of memory out of 5000000
+ 5890 multiletter control sequences out of 15000+600000
  14558 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,26p,1064b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cmextra/cmex7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pf
-b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dbe.pdf (10 pages, 1374334 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmext
+ra/cmex7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pf
+b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on dbe.pdf (11 pages, 2886273 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
+ 542 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
